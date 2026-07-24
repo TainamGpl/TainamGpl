@@ -54,15 +54,15 @@ Atendo projetos que precisam sair da ideia, modernizar uma presença digital ou 
 
 | Projeto | O que resolve | Tecnologias |
 |---|---|---|
-| Sistema de Ônibus (publicação aprovada; link será liberado após a mudança de visibilidade) | Reúne consulta de linhas, horários, itinerários, pontos e avisos em uma interface de mobilidade com administração | Next.js, TypeScript, PostgreSQL, Prisma |
+| [Sistema de Ônibus](https://github.com/TainamGpl/Sistema-de-Onibus-Demo) — [Demonstração](https://sistema-onibus-taina.tainalopesgpl.chatgpt.site) | Reúne consulta de linhas, horários e avisos fictícios em uma interface pública de mobilidade; o sistema original completo permanece privado | HTML, CSS, JavaScript |
 | [Landing Page — Demonstração](https://landing-store-taina.tainalopesgpl.chatgpt.site) (código original privado) | Apresenta uma experiência comercial responsiva com recursos demonstrativos de chatbot e checkout | HTML, CSS, JavaScript |
 | [Escala de Trabalho](https://github.com/TainamGpl/escala-de-trabalho) — [Demonstração](https://escala-taina-rebeca-2026.tainalopesgpl.chatgpt.site) | Organiza escalas semanais, horários, folgas e total de horas trabalhadas no navegador | HTML, CSS, JavaScript |
 
-O **Mais Diário** é um portal de notícias completo com gestão editorial, publicidade, métricas e módulos administrativos. O repositório de produção permanece privado para proteger dados e configurações do ambiente real; um estudo de caso público e seguro está em preparação.
+O **Mais Diário** é um portal de notícias completo com gestão editorial, publicidade, métricas e módulos administrativos. O repositório de produção permanece privado para proteger dados e configurações do ambiente real; o projeto está documentado no estudo de caso público [Mais Diário — Showcase](https://github.com/TainamGpl/Mais-Diario-Showcase).
 
 ### Roadmap — projetos planejados
 
-- **Mais Diário — Showcase:** estudo de caso público do portal de notícias, sem credenciais nem dados de produção
+- **[Mais Diário — Showcase](https://github.com/TainamGpl/Mais-Diario-Showcase):** estudo de caso público do portal de notícias, sem credenciais nem dados de produção
 - **AI Telegram Publisher:** automação de conteúdo com IA, revisão humana, agendamento e envio pelo Telegram
 - **Tournament Manager Web:** gestão de campeonatos, equipes, partidas, classificação e eliminatórias
 - **AdPulse:** campanhas, banners, posições, cliques e métricas
